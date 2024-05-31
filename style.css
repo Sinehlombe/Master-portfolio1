@@ -54,7 +54,7 @@ body {
 }
 
 .navbar a:hover {
-    color: #0ef;
+    color: gold;
     text-decoration: underline;
 }
 
@@ -106,7 +106,7 @@ body {
 }
 
 .home-content h4 span {
-    color: #0ef;
+    color:gold;
     font-size: 32px;
     font-weight: 700;
 }
@@ -123,10 +123,10 @@ body {
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid #0ef;
+    border: 2px solid gold;
     border-radius: 50%;
     font-size: 20px;
-    color: #0ef;
+    color: gold;
     text-decoration: none;
     margin: 30px 15px 30px 0;
     opacity: 0;
@@ -135,7 +135,7 @@ body {
 }
 
 .home-sci a:hover {
-    background: #0ef;
+    background: gold;
     color: #000;
     box-shadow: 0 0 20px #0ef;
 }
@@ -143,7 +143,7 @@ body {
 .btn-box {
     display: inline-block;
     padding: 12px 28px;
-    background: #0ef;
+    background: gold;
     border-radius: 40px;
     font-size: 15px;
     text-align: center;
@@ -157,9 +157,8 @@ body {
 }
 
 .btn-box:hover {
-    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50pc cyan, 0 0 100px cyan, 0 0 200px cyan;
+    box-shadow: 0 0 5px gold, 0 0 25px gold, 0 0 50pc gold, 0 0 100px gold, 0 0 200px gold;
 }
-
 .img {
     display: inline-block;
     left: 55%;
@@ -173,7 +172,10 @@ body {
     opacity: 0;
     animation: slideUP 1s ease forwards;
     animation-delay: 1s;
+    width: 500px; /* Adjust width to desired size */
+    height: 500px; /* Adjust height to desired size */
 }
+
 
 .responsive {
     width: 100%;
@@ -216,7 +218,7 @@ body {
     max-height: 492px;
     border-radius: 90px;
     /*box-shadow: 0 0 5pc cyan, 0 0 5px cyan, 0 0 10px cyan;*/
-    border: #0ef 5px solid;
+    border: gold 5px solid;
 }
 
 .about-text {
@@ -229,7 +231,7 @@ body {
 }
 
 .about-text h2 span {
-    color: #0ef;
+    color: gold;
 }
 
 .about-text p {
@@ -245,7 +247,7 @@ body {
 .abtbtn-box {
     display: inline-block;
     padding: 12px 28px;
-    background: #0ef;
+    background: gold;
     border-radius: 40px;
     font-size: 15px;
     text-align: center;
@@ -256,7 +258,7 @@ body {
 }
 
 .abtbtn-box:hover {
-    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50pc cyan, 0 0 100px cyan, 0 0 200px cyan;
+    box-shadow: 0 0 5px gold, 0 0 25px gold, 0 0 50pc gold, 0 0 100px gold, 0 0 200px gold;
 }
 
 
@@ -273,7 +275,7 @@ body {
 }
 
 .subtitle span {
-    color: #0ef;
+    color: gold;
 }
 
 .sec {
@@ -344,7 +346,7 @@ body {
 
 .Technical-bars .bar .progress-line span {
     height: 100%;
-    background-color: #0ef;
+    background-color: gold;
     position: absolute;
     border-radius: 10px;
     animation: animate 1s 1s cubic-bezier(1, 0, 0.5, 1) forwards;
@@ -456,7 +458,7 @@ body {
 
 .path {
     stroke-width: 10;
-    stroke: #0ef;
+    stroke: gold;
     fill: transparent;
     stroke-dasharray: 502;
     stroke-dashoffset: 502;
@@ -523,7 +525,7 @@ body {
 }
 
 .main-text h2 span {
-    color: #0ef;
+    color: gold;
 }
 
 .serv-container {
@@ -588,7 +590,7 @@ body {
 }
 
 .layer i {
-    color: #0ef;
+    color: gold;
     margin-top: 20px;
     font-size: 20px;
     background: #000;
@@ -623,7 +625,7 @@ body {
 }
 
 .sub-title span {
-    color: #0ef;
+    color: gold;
 }
 
 .prj-list {
@@ -642,7 +644,7 @@ body {
     border-radius: 20px;
     transition: background 0.5s, transform 0.5s;
     /*box-shadow: 1px 1px 20px #012290f7, 1px 1px 40px #0053b8f7;*/
-    border: #0ef 5px solid;
+    border: gold 5px solid;
 }
 
 .container {
@@ -672,7 +674,7 @@ body {
 .read {
     display: inline-block;
     padding: 12px 20px;
-    background: #0ef;
+    background: gold;
     border-radius: 40px;
     font-size: 16px;
     color: #081b29;
@@ -685,7 +687,7 @@ body {
 }
 
 .read:hover {
-    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50pc cyan, 0 0 100px cyan, 0 0 200px cyan;
+    box-shadow: 0 0 5px gold, 0 0 25px gold, 0 0 50pc gold, 0 0 100px gold, 0 0 200px gold;
 }
 
 .prj-list div:hover {
@@ -718,7 +720,7 @@ body {
 }
 
 .contact-text h2 span {
-    color: #0ef;
+    color: gold;
 }
 
 .contact-text h4 {
@@ -747,7 +749,7 @@ body {
 
 .contact-list i {
     display: inline-block;
-    color: #0ef;
+    color: gold;
     font-size: 20px;
     font-weight: 600;
     transition: all .40s ease;
@@ -762,17 +764,17 @@ body {
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid #0ef;
+    border: 2px solid gold;
     border-radius: 50%;
     font-size: 20px;
-    color: #0ef;
+    color: gold;
     text-decoration: none;
     margin: 0px 15px 0px 0;
     opacity: 1;
 }
 
 .contact-icons i:hover {
-    background: #0ef;
+    background: gold;
     color: #000;
     box-shadow: 0 0 20px #0ef;
 }
@@ -802,15 +804,15 @@ body {
 
 .top i{
     color: black;
-    background: #0ef;
+    background: gold;
     font-size: 20px;
     padding: 10px;
     border-radius: 0.5rem;
 }
 
 .top i:hover {
-    box-shadow: 0 0 5px cyan,
-    0 0 25px cyan, 0 0 50px cyan,0 0 200px cyan;
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold, 0 0 50px gold,0 0 200px gold;
 }
 
 
@@ -999,7 +1001,7 @@ body {
         margin-left: 0;
     }
     .btn-box:hover {
-        box-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 15pc cyan, 0 0 20px cyan, 0 0 25px cyan;
+        box-shadow: 0 0 5px gold, 0 0 10px gold, 0 0 15pc gold, 0 0 20px gold, 0 0 25px gold;
     }
     /*about*/
     .about{
@@ -1019,7 +1021,7 @@ body {
         text-align: left;
     }
     .abtbtn-box:hover {
-        box-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 15pc cyan, 0 0 20px cyan, 0 0 25px cyan;
+        box-shadow: 0 0 5px gold, 0 0 10px gold, 0 0 15pc gold, 0 0 20px gold, 0 0 25px gold;
     }
 
     /*skills*/
@@ -1154,7 +1156,7 @@ body {
         font-weight: 200;
     }
     .btn-box:hover {
-        box-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 15pc cyan, 0 0 20px cyan, 0 0 25px cyan;
+        box-shadow: 0 0 5px gold, 0 0 10px gold, 0 0 15pc gold, 0 0 20px gold, 0 0 25px gold;
     }
     .img{
         max-width: 300px;
@@ -1185,7 +1187,7 @@ body {
         text-align: left;
     }
     .abtbtn-box:hover {
-        box-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 15pc cyan, 0 0 20px cyan, 0 0 25px cyan;
+        box-shadow: 0 0 5px gold, 0 0 10px gold, 0 0 15pc gold, 0 0 20px gold, 0 0 25px gold;
     }
 
     /*skills*/
